@@ -28,5 +28,3 @@ npm test
 * node + npm + yarn
 * gulp
 
-## license
-MIT
