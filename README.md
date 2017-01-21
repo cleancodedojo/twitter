@@ -1,11 +1,18 @@
 # twitter
 * twitter is a popular social media platform
-* the purpose of this project is to reverse engineer twitter to teach 
-programming and use clean code and software craftsmanship principles
-* user stories and user interface requirements will be derived from the 
-existing mobile and web application
-* this project will be used as a teaching and learning tool
-* almost all the code in this project will be written from scratch
+* the purpose of this project is to teach programming, software engineering, 
+and software craftsmanship principles
+* no html/css/javascript code will be taken from twitter.com, only the 
+user stories and user interface requirements will be used to accelerate 
+the software development life cycle
+* the goal is to build twitter from scratch as a team using clean code 
+principles and decouple the application from the user interface
+
+## twitter-app
+* application specific code
+
+## twitter-ui-react
+* user interface specific code using react framework
 
 ## team
 * Ray Joseph de Castro. Software Architect. 
