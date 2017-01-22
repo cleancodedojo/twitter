@@ -15,6 +15,6 @@ principles and decouple the application from the user interface
 * user interface specific code using react framework
 
 ## team
-* Ray Joseph de Castro. Software Architect. 
-* TBD. Lead Software Engineer.
-* TBD. Software Engineer.
+* ray joseph de castro. software architect. 
+* tbd. lead software engineer.
+* tbd. software engineer.
