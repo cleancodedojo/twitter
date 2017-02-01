@@ -1,7 +1,7 @@
 "use strict";
 
 import {expect} from "chai";
-import User from "../src/user";
+import User from "../source/user";
 
 describe("User", () => {
     it("shall exist", () => {
