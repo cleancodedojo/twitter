@@ -8,7 +8,7 @@ the software development life cycle
 * the goal is to build twitter from scratch as a team using clean code 
 principles and decouple the application from the user interface
 
-## twitter-app
+## twitter-core
 * application specific code
 
 ## twitter-ui-react
