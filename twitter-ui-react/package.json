@@ -1,7 +1,7 @@
 {
-  "name": "react-slingshot",
-  "version": "5.0.0",
-  "description": "Starter kit for creating apps with React and Redux",
+  "name": "twitter-ui-react",
+  "version": "0.0.0",
+  "description": "twitter ui react",
   "engines": {
     "npm": ">=3"
   },
@@ -27,7 +27,7 @@
     "open:cover": "npm run test:cover && open coverage/index.html",
     "analyze-bundle": "babel-node ./tools/analyzeBundle.js"
   },
-  "author": "Cory House",
+  "author": "Ray Joseph de Castro",
   "license": "MIT",
   "dependencies": {
     "object-assign": "4.1.0",
@@ -37,7 +37,8 @@
     "react-router": "3.0.0",
     "react-router-redux": "4.0.7",
     "redux": "3.6.0",
-    "redux-thunk": "2.1.0"
+    "redux-thunk": "2.1.0", 
+    "twitter-core": "../twitter-core"
   },
   "devDependencies": {
     "autoprefixer": "6.5.4",
@@ -109,9 +110,5 @@
     "flux",
     "boilerplate",
     "starter"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/coryhouse/react-slingshot"
-  }
+  ]
 }
